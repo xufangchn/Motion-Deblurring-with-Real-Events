@@ -1,0 +1,9 @@
+certifi==2020.6.20
+dataclasses==0.8
+numpy==1.19.5
+opencv-python==4.5.4.60
+Pillow==8.4.0
+torch==1.7.1
+torchaudio==0.7.2
+torchvision==0.8.2
+typing_extensions==4.0.1
