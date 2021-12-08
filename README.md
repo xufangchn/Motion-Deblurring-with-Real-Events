@@ -18,7 +18,7 @@ If you use the code, models or data for your research, please cite us accordingl
 
 ## Pretrained Models
 
-You can download the pretrained model from [here](https://drive.google.com/file/d/1xBbhMwqPR5p2Fs6VrGR0HagBzVOtNSD7/view?usp=sharing),
+You can download the pretrained RED-RBE model from [here](https://drive.google.com/file/d/1xBbhMwqPR5p2Fs6VrGR0HagBzVOtNSD7/view?usp=sharing)
 
 
 
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ## Get Started
 
-You can download a sample sequence from this [link](http://www.cs.ubc.ca/labs/imager/tr/2017/DeepVideoDeblurring/DeepVideoDeblurring_Dataset.zip), which is converted from [[HQF\]](https://drive.google.com/drive/folders/18Xdr6pxJX0ZXTrXW9tK0hC3ZpmKDIt6_).
+You can download a sample sequence from this [link](https://drive.google.com/file/d/1kHgel64IRQF6dJmYVFlSnwagK0FPCBxW/view?usp=sharing), which is converted from [[HQF\]](https://drive.google.com/drive/folders/18Xdr6pxJX0ZXTrXW9tK0hC3ZpmKDIt6_).
 
 Use the following command to test the neural network:
 
